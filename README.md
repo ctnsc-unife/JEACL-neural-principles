@@ -1,1 +1,1 @@
-# JEACL-emergent-principles
+# JEACL-neural-principles
